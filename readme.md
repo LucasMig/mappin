@@ -8,7 +8,7 @@ A intenção principal foi praticar e aprender mais sobre programação orientad
 
 ## Como testar
 
-O resultado final do projeto está hospedado [aqui](https://mappin.netlify.app/).
+O resultado final do projeto está hospedado [aqui](https://mappin-migliori.netlify.app/).
 
 Pra adicionar um novo workout, basta clicar no mapa o local onde ele ocorreu. Ao clicar, um form aparecerá na barra lateral, onde é preciso selecionar o tipo do workout (corrida ou ciclismo) e fornecer as informações pedidas.
 
